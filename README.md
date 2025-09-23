@@ -1,4 +1,4 @@
-# BryanGomez-Portfolio
+**BryanGomez-Portfolio**
 
 This repository contains a collection of my programming projects, ranging from academic work to personal experiments. Each folder includes source code and (where relevant) instructions on how to run the project.
 
@@ -21,7 +21,8 @@ A folder containing several console-based games implemented in **C**:
 - Library Management System  
 - Sudoku Solver
 
-####Each game demonstrates algorithmic problem-solving, user interaction, and clean code structure
+Each game demonstrates algorithmic problem-solving, user interaction, and clean code structure
+
 ------
 ### 4. [Classic Rock Paper Scissors](BryanGomez-Portfolio/Rock_Paper_Scissors)
 A classic **Rock-Paper-Scissors** game written in **Python**.  
