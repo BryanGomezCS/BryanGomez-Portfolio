@@ -1,4 +1,4 @@
-**BryanGomez-Portfolio**
+# BryanGomez-Portfolio
 
 This repository contains a collection of my programming projects, ranging from academic work to personal experiments. Each folder includes source code and (where relevant) instructions on how to run the project.
 
