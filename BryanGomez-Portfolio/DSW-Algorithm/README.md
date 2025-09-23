@@ -23,11 +23,11 @@ Binary Search Tree implementation in C++ with DSW algorithm for balancing. Inclu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BryanGomezCS/DSW-Algorithm.git
+   git clone https://github.com/BryanGomezCS/BryanGomez-Portfolio.git
    ```
 2. Go to the folder:
    ```bash
-   cd DSW-Algorithm
+   cd BryanGomez-Portfolio/DSW-Algorithm
    ```
 3. Compile the code:
    ```bash
