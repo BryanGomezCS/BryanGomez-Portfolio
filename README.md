@@ -4,7 +4,7 @@ This repository contains a collection of my programming projects, ranging from a
 
 ## Projects
 
-### 1: [Barbershop Website](./Barbershop_Website)
+### 1: [Barbershop Website](BryanGomez-Portfolio/Barbershop_Website)
 A work-in-progress responsive website for a fictional barbershop. Built using **HTML, CSS, and JavaScript**.  
 - Focus on clean layouts and responsive design  
 - Includes pages such as Home, Services, About, and Contact 
