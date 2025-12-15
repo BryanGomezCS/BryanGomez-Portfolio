@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact - Essentials Barber Studio</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/contact.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="logo">Essentials Barber Studio</div>
+        <button class="menu-toggle" aria-label="Toggle navigation">☰</button>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="contact-container">
+      <section class="contact-info">
+        <h1>Contact Us</h1>
+        <p>
+          We'd love to hear from you! Reach out with any questions or to book
+          your next cut.
+        </p>
+        <ul>
+          <li><strong>Phone:</strong> (123)456-7890</li>
+          <li><strong>Email:</strong> some@example.com</li>
+          <li><strong>Address:</strong> 123 N Pole</li>
+          <li><strong>Hours:</strong> 8am - 6pm</li>
+        </ul>
+        
+        <button class="book-now-btn" onclick="bookNow()">
+          Book Appointment
+        </button>
+      </section>
+
+      <section class="contact-form">
+        <form action="#" method="post">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-left">
+          <h4>Essentials Barber Studio</h4>
+          <p>&copy; 2025 Essentials Barber Studio. All rights reserved.</p>
+        </div>
+        <div class="footer-right">
+          <a href="#">Instagram</a>
+          <a href="#">Facebook</a>
+          <a href="contact.html">Contact</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+  </body>
+</html>
