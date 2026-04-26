@@ -35,7 +35,7 @@ An iOS **SwiftUI** application that quizzes the user with multiple-choice trivia
 - Clean and simple user interface  
 - Functional demo with room for UI enhancements
 
-### 6. [Snake Game](BryanGomez-Portfolio/SnakeGame)
+### 6. [Snake Game](BryanGomez-Portfolio/Snake)
 An implementation of a classic retro-style snake game made by using **C#** and a **MonoGame framework**.
 - Score tracking
 - Grid base collision detection
