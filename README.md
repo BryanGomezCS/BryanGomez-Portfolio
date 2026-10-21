@@ -1,42 +1,102 @@
-# BryanGomez-Portfolio
 
-This repository contains a collection of my programming projects, ranging from academic work to personal experiments. Each folder includes source code and (where relevant) instructions on how to run the project.
+# GitHub Portfolio
 
-## Projects
+Welcome to my GitHub portfolio! This repository showcases a collection of software development, algorithm design, and cybersecurity projects, including academic work and personal projects. Each project reflects my experience exploring programming concepts and building practical solutions.
 
-### 1. [Barbershop Website](BryanGomez-Portfolio/Barbershop_Website)
-A work-in-progress responsive website for a fictional barbershop. Built using **HTML, CSS, and JavaScript**.  
-- Focus on clean layouts and responsive design  
-- Includes pages such as Home, Services, About, and Contact
-------
-### 2. [DSW Algorithm](BryanGomez-Portfolio/DSW-Algorithm)
-A **Binary Search Tree (BST)** implementation in **C++**, featuring the **Day-Stout-Warren (DSW)** algorithm for balancing.  
-- Supports insertion, traversal, and balancing  
-- Demonstrates before/after effects of balancing a BST
-------
-### 3. [Game Collection](BryanGomez-Portfolio/Games)
-A folder containing several console-based games implemented in **C**:  
-- Guess the Number  
-- Hangman  
-- Library Management System  
+## Technical Skills
+
+- **Programming Languages:** Python, C, C++, JavaScript, C#
+- **Web Development:** HTML, CSS
+- **Tools & Technologies:** Git, GitHub, VS Code, Vim, OSMnx, MonoGame
+- **Areas of Interest:** Algorithm Design, Data Structures, Pathfinding, Cybersecurity
+
+## Featured Projects
+
+### 1. Geographic Pathfinding Benchmark Study
+**Technologies:** Python, OSMnx
+
+A benchmarking project comparing Dijkstra's algorithm and A* search using real-world geographic data and synthetic coordinate grids.
+
+- Co-developed a benchmarking suite to evaluate pathfinding algorithms.
+- Processed and visualized routing performance using geographic data from Richland, Washington, and synthetic 2D grids.
+- Implemented geographic heuristics using Haversine distance, achieving a 42% reduction in explored nodes.
+
+**[View Project on GitHub](https://github.com/BryanGomezCS/GroupProjectCode)**
+
+
+### 2. Barbershop Website
+**Technologies:** HTML, CSS, JavaScript  
+**Status:** In Progress
+
+A website project focused on creating a web presence for a fictional barbershop.
+
+- Developing the website layout and interface.
+- Practicing front-end development and responsive web design.
+
+**[View Project on GitHub](./BryanGomez-Portfolio/Barbershop_Website)**
+
+### 3. Day-Stout-Warren (DSW) Algorithm
+
+A C++ implementation of a binary search tree (BST) that uses the Day-Stout-Warren algorithm to rebalance the tree.
+
+### Features
+- Binary search tree insertion and management
+- Tree rebalancing using the Day-Stout-Warren algorithm
+- Improved tree structure for more efficient searching
+
+### Technologies Used
+- C++
+
+### Key Concepts
+- Binary search trees
+- Tree rotations
+- Algorithm efficiency and balancing
+
+**[View Project on GitHub](./BryanGomez-Portfolio/DSW-Algorithm)**
+
+
+## Additional Projects
+
+### Game Collection
+**Technologies:** C
+
+A collection of programming projects demonstrating programming fundamentals and problem-solving.
+
+Includes:
+- Guess the Number
+- Hangman
+- Library Management System
 - Sudoku Solver
 
-Each game demonstrates algorithmic problem-solving, user interaction, and clean code structure
+**[View Project on GitHub](./BryanGomez-Portfolio/Games)**
 
-------
-### 4. [Classic Rock Paper Scissors](BryanGomez-Portfolio/Rock_Paper_Scissors)
-A classic **Rock-Paper-Scissors** game written in **Python**.  
-- Play against the computer with randomized choices  
-- Includes input validation and simple console UI
-------
-### 5. [Trvia Game Demo](BryanGomez-Portfolio/TriviaGameDemo)
-An iOS **SwiftUI** application that quizzes the user with multiple-choice trivia questions.  
-- Score tracking for correct answers  
-- Clean and simple user interface  
-- Functional demo with room for UI enhancements
+---
 
-### 6. [Snake Game](BryanGomez-Portfolio/Snake)
-An implementation of a classic retro-style snake game made by using **C#** and a **MonoGame framework**.
-- Score tracking
-- Grid base collision detection
-- State management
+### Rock Paper Scissors
+**Technologies:** Python
+
+A command-line game featuring randomized computer choices and user-input validation.
+
+**[View Project on GitHub](./BryanGomez-Portfolio/Rock_Paper_Scissors)**
+
+---
+
+### Trivia Game Demo
+**Technologies:** SwiftUI
+
+An iOS multiple-choice trivia game featuring answer selection and score tracking.
+
+**[View Project on GitHub](./BryanGomez-Portfolio/TriviaGameDemo)**
+
+---
+
+### Snake Game
+**Technologies:** C#, MonoGame
+
+A grid-based Snake game featuring score tracking, collision detection, and game-state management.
+
+**[View Project on GitHub](./BryanGomez-Portfolio/Snake)**
+
+## Certifications
+
+- **CompTIA Security+** — CompTIA, earned 2026.
